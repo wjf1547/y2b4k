@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'dffrtrrg');
+define('APIKEY', 'AIzaSyC76mk-QnNEw48if39oAfd-DjV2z2bc9vQ');
 define('TITLENAME', 'YouProxy');
 define('SITE_NAME', 'YouProxy');
 define('NAME', 'zyp997');
