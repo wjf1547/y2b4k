@@ -1,7 +1,6 @@
 <?php
 define('APIKEY', 'AIzaSyC3rRGVY64KAHvaYzyDUIBv3ppba2nBxTM');
-define('SITE_NAME', 'you2b1eclub');
-define('TITLENAME', 'you2beclub');
+define('TITLENAME', 'YouProxy');
 define('NAME', 'zyp997');
 define('PASSWORD', '19990601');
 define('LOGINHTML', '<!DOCTYPE html>
